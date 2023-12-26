@@ -11,7 +11,7 @@ const mulheres = [
         minibio: 'Farmacêutica em transição de carreira para Desenvolvedora'
     },
     {
-        nome: 'Nicolle Meirelles',
+        nome: 'Nicolle Meireles',
         imagem: 'https://www.imagenspng.com.br/wp-content/uploads/2017/03/moana-01-920x1024.png',
         minibio: 'Desenvolvedora e estudante de Computação'
     }
